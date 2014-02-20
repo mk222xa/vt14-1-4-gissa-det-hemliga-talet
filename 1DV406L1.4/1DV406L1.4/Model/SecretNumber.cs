@@ -55,6 +55,7 @@ namespace _1DV406L1._4.Model
             _number = randomNumber.Next(1, 101);
 
             _previousGuesses.Clear();
+            Outcome = Outcome.Indefinite;
         }
 
         
