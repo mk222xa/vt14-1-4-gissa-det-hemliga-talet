@@ -1,0 +1,39 @@
+﻿form {
+    width:800px;
+    align-self:center;
+}
+h1 {
+    text-align:center;
+}
+#userInputTextBox {
+    display:block;
+    padding:5px;
+    clear:both;
+    float:left;
+}
+
+#labelPlaceHolder {
+    display:block;
+    clear:both;
+}
+
+#messages {
+background-color:#00ff90;
+display:block;
+float:left;
+clear:both;
+}
+
+#result {
+background-color:#05cf22;
+display:block;
+clear:both;
+float:left;
+}
+
+#resetButton {
+display:block;
+clear:both;
+float:right;
+}
+
